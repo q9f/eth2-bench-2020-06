@@ -81,9 +81,9 @@ _*) Note, this is a preliminary, high-level benchmark that should be repeated in
 - `time`: Unix time in seconds
   - all: (Ruby) `Time.now.to_i`
 - `db`: Database size in bytes
-  - Lighthouse: (Shell) `du -bs $HOME/.lighthouse/beacon/chain_db/
-  - Prysm: (Shell) `du -bs $HOME/.eth2/beaconchaindata/
-  - Teku: (Shell) `du -bs $HOME/.local/share/teku/data/db/
+  - Lighthouse: (Shell) `du -bs $HOME/.lighthouse/beacon/chain_db/`
+  - Prysm: (Shell) `du -bs $HOME/.eth2/beaconchaindata/`
+  - Teku: (Shell) `du -bs $HOME/.local/share/teku/data/db/`
 - `mem`: Resident memory in bytes
   - Lighthouse: (REST API) `/node/health`, `.pid_mem_resident_set_size`
   - Prysm: (Metrics) `process_resident_memory_bytes`
