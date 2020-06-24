@@ -4,7 +4,9 @@ Preliminary, high-level ETH2-client benchmarks.
 - [x] Prysm
 - [x] Teku
 
-Commentary: [./res/2020-06-eth2-bench.pdf](./res/2020-06-eth2-bench.pdf) (PDF), raw data: [./dat](./dat) (CSV), client logs: [./log](./log) (LOG).
+Report: [./res/2020-06-eth2-bench.pdf](./res/2020-06-eth2-bench.pdf) (PDF), raw data: [./dat](./dat) (CSV), client logs: [./log](./log) (LOG).
+
+![report](./res/cover.png)
 
 ### Host systems (3x)
 - VPS: Scaleway DEV1-XL _(*)_
