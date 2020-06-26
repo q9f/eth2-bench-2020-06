@@ -19,19 +19,19 @@ _*) Note, this is a preliminary, high-level benchmark that should be repeated in
 
 ### Lighthouse
 - `lighthouse/0.1.2`
-- `master` @ 710409c2bafbd118ac8a9a4115ed7a8abfe9929a
+- `master` @ 710409c2bafbd118ac8a9a4115ed7a8abfe9929a (June/20, 2020)
 - Rust `1.44.1`, Cargo `1.44.1`
 - Permalink: https://github.com/sigp/lighthouse/tree/710409c2bafbd118ac8a9a4115ed7a8abfe9929a
 
 ### Prysm
 - `Prysm/Git commit: 172435374d07982a8f15b0ceb042b53ce284fa7e. Built at: 2020-06-22T10:55:28+02:00`
-- `witti` @ 172435374d07982a8f15b0ceb042b53ce284fa7e
+- `witti` @ 172435374d07982a8f15b0ceb042b53ce284fa7e (June/07, 2020)
 - Go 1.14.4, Bazel 3.2.0
 - Permalink: https://github.com/prysmaticlabs/prysm/tree/172435374d07982a8f15b0ceb042b53ce284fa7e
 
 ### Teku
 - `teku/v0.11.5-dev-3bd72680/linux-x86_64/-na-openjdk64bitservervm-java-14`
-- `master` @ 3bd726809afe32296bc0b480168e380f66702354
+- `master` @ 3bd726809afe32296bc0b480168e380f66702354 (June/22, 2020)
 - Java `14.0.1`, Gradle `6.5`
 - Permalink: https://github.com/PegaSysEng/teku/tree/3bd726809afe32296bc0b480168e380f66702354
 
