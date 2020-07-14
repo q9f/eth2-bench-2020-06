@@ -1,3 +1,5 @@
+_Note, these numbers gathered below might contain a methodical uncertainty based on how the prysm binaries were compiled. I'll do my best to publish a new report with updated binaries for all clients soon(tm)._
+
 # Multi-client benchmark on Witti testnet 2020/06/22
 Preliminary, high-level ETH2-client benchmarks.
 - [x] Lighthouse
