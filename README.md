@@ -1,4 +1,10 @@
-> ⚠️ _Note, these numbers gathered below might contain a methodical uncertainty based on how the prysm binaries were compiled. I'll do my best to publish a new report with updated binaries for all clients soon(tm)._
+> ⚠️ _Note, these numbers gathered below might contain a methodical uncertainty based on:_
+> * _how the prysm binaries were compiled; apparently, there is an undocumented option to pass `--config=release` to bazel to enable optimized builds,_
+> * _how the virtual machines competed for resources; apparently, creating all three VMs at the same time caused them to end up on the same physical host._
+>
+> _I'll do my best to publish a new report for all clients soon(tm) on the new Altona testnet. I'll double check the build and runtime flags with the client teams and consider a physical host. Stay tuned._
+
+---
 
 # Multi-client benchmark on Witti testnet 2020/06/22
 Preliminary, high-level ETH2-client benchmarks.
