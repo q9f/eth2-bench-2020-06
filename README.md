@@ -3,6 +3,8 @@
 > * _how the virtual machines competed for resources; apparently, creating all three VMs at the same time caused them to end up on the same physical host._
 >
 > _I'll do my best to publish a new report for all clients soon(tm) on the new Altona testnet. I'll double check the build and runtime flags with the client teams and consider a physical host. Stay tuned._
+>
+> **:heavy_check_mark: Update:** new benchmark available: [Multi-client benchmark on Altona testnet 2020/07/16](https://github.com/q9f/eth2-bench-2020-07)
 
 ---
 
