@@ -1,3 +1,7 @@
+> **:heavy_check_mark: Update:** new benchmark available: [Multi-client benchmark on Medalla testnet 2020/10/01](https://github.com/q9f/eth2-bench-2020-10)
+
+---
+
 > ⚠️ _Note, these numbers gathered below might contain a methodical uncertainty based on:_
 > * _how the prysm binaries were compiled; apparently, there is an undocumented option to pass `--config=release` to bazel to enable optimized builds,_
 > * _how the virtual machines competed for resources; apparently, creating all three VMs at the same time caused them to end up on the same physical host._
